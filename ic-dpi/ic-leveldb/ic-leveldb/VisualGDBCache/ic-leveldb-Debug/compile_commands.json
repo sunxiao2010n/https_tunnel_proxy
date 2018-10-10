@@ -1,0 +1,637 @@
+[
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_bench.dir/util/histogram.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/histogram.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/histogram.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_bench.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_bench.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_bench.dir/db/db_bench.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_bench.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_bench.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_posix_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_posix_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_posix_test.dir/util/env_posix_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_posix_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_posix_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/logging_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/logging_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/logging_test.dir/util/logging_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/logging_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/logging_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/hash_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/hash_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/hash_test.dir/util/hash_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/hash_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/hash_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/coding_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/coding_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/coding_test.dir/util/coding_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/coding_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/coding_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/bloom_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/bloom_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/bloom_test.dir/util/bloom_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/bloom_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/bloom_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/arena_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/arena_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/arena_test.dir/util/arena_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/arena_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/arena_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/autocompact_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/autocompact_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/autocompact_test.dir/db/autocompact_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/autocompact_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/autocompact_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue200_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue200_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue200_test.dir/issues/issue200_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/issues/issue200_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/issues/issue200_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/db_test.dir/db/db_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/status_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/status_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/status_test.dir/util/status_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/status_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/status_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/env_test.dir/util/env_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/c_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/c_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/cc -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c11 -o CMakeFiles/c_test.dir/db/c_test.c.o   -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/c_test.c",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/c_test.c"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue178_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue178_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/issue178_test.dir/issues/issue178_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/issues/issue178_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/issues/issue178_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++   -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldbutil.dir/db/leveldbutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/leveldbutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/leveldbutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/write_batch_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/write_batch_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/write_batch_test.dir/db/write_batch_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/write_batch_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/write_batch_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/builder.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/builder.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/builder.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/c.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/c.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/c.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/db_impl.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_impl.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_impl.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/db_iter.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_iter.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/db_iter.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/dbformat.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dbformat.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dbformat.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/dumpfile.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dumpfile.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dumpfile.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/filename.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/filename.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/filename.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/log_reader.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_reader.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_reader.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/log_writer.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_writer.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_writer.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/memtable.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/memtable.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/memtable.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/repair.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/repair.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/repair.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/table_cache.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/table_cache.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/table_cache.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/version_edit.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_edit.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_edit.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/version_set.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_set.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_set.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/db/write_batch.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/write_batch.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/write_batch.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/block_builder.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/block_builder.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/block_builder.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/block.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/block.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/block.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/filter_block.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/filter_block.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/filter_block.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/format.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/format.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/format.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/iterator.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/iterator.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/iterator.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/merger.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/merger.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/merger.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/table_builder.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table_builder.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table_builder.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/table.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/table/two_level_iterator.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/two_level_iterator.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/two_level_iterator.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/arena.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/arena.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/arena.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/bloom.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/bloom.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/bloom.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/cache.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/cache.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/cache.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/coding.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/coding.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/coding.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/comparator.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/comparator.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/comparator.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/crc32c.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/crc32c.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/crc32c.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/env.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/filter_policy.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/filter_policy.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/filter_policy.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/hash.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/hash.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/hash.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/logging.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/logging.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/logging.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/options.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/options.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/options.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/status.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/status.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/status.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/util/env_posix.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_posix.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/env_posix.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/leveldb.dir/helpers/memenv/memenv.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/helpers/memenv/memenv.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/helpers/memenv/memenv.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/fault_injection_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/fault_injection_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/fault_injection_test.dir/db/fault_injection_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/fault_injection_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/fault_injection_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filename_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filename_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filename_test.dir/db/filename_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/filename_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/filename_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/dbformat_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/dbformat_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/dbformat_test.dir/db/dbformat_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dbformat_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/dbformat_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/memenv_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/memenv_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/memenv_test.dir/helpers/memenv/memenv_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/helpers/memenv/memenv_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/helpers/memenv/memenv_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/table_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/table_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/table_test.dir/table/table_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/table_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/log_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/log_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/log_test.dir/db/log_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/log_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/recovery_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/recovery_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/recovery_test.dir/db/recovery_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/recovery_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/recovery_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_set_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_set_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_set_test.dir/db/version_set_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_set_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_set_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/crc32c_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/crc32c_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/crc32c_test.dir/util/crc32c_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/crc32c_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/crc32c_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/cache_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/cache_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/cache_test.dir/util/cache_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/cache_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/cache_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/skiplist_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/skiplist_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/skiplist_test.dir/db/skiplist_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/skiplist_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/skiplist_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_edit_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_edit_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/version_edit_test.dir/db/version_edit_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_edit_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/version_edit_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/corruption_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/corruption_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/corruption_test.dir/db/corruption_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/corruption_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/db/corruption_test.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filter_block_test.dir/util/testharness.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testharness.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filter_block_test.dir/util/testutil.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/util/testutil.cc"
+},
+{
+  "directory": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug",
+  "command": "/usr/bin/c++  -DLEVELDB_HAS_PORT_CONFIG_H=1 -DLEVELDB_PLATFORM_POSIX=1 -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/Debug/include -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb -I/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/include  -g   -std=c++11 -o CMakeFiles/filter_block_test.dir/table/filter_block_test.cc.o -c /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/filter_block_test.cc",
+  "file": "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-leveldb/ic-leveldb/table/filter_block_test.cc"
+}
+]

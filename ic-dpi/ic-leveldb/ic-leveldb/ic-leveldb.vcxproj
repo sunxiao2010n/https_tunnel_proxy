@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5D893D3D-088C-44B6-ABE5-BC1B23D2994F}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Label="VisualGDBPackageDefinitions">
+    <ToolchainID>com.sysprogs.toolchain.default-gcc</ToolchainID>
+  </PropertyGroup>
+  <ImportGroup Label="VisualGDBFindComponents">
+    <Import Project="$(LOCALAPPDATA)\VisualGDB\FindComponents.props" />
+  </ImportGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <NMakeIncludeSearchPath>$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5\x86_64-redhat-linux;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5\backward;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0001\include;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0002\include;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include;$(NMakeIncludeSearchPath)</NMakeIncludeSearchPath>
+    <NMakeForcedIncludes>$(ProjectDir)\gcc_Debug.h;$(VISUALGDB_DIR)\gcc_compat.h;$(NMakeForcedIncludes)</NMakeForcedIncludes>
+    <NMakePreprocessorDefinitions>__VisualGDB_CFG_Debug;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
+    <NMakeBuildCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /build "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeBuildCommandLine>
+    <NMakeCleanCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /clean "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeCleanCommandLine>
+    <NMakeReBuildCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /rebuild "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeReBuildCommandLine>
+    <NMakeOutput>$(ProjectDir)ic-leveldb-Debug.vgdbsettings</NMakeOutput>
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <NMakeIncludeSearchPath>$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5\x86_64-redhat-linux;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include\c++\4.8.5\backward;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0001\include;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0002\include;$(LOCALAPPDATA)\VisualGDB\RemoteSourceCache\192.168.7.147\0000\include;$(NMakeIncludeSearchPath)</NMakeIncludeSearchPath>
+    <NMakeForcedIncludes>$(ProjectDir)\gcc_Release.h;$(VISUALGDB_DIR)\gcc_compat.h;$(NMakeForcedIncludes)</NMakeForcedIncludes>
+    <NMakePreprocessorDefinitions>__VisualGDB_CFG_Release;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
+    <NMakeBuildCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /build "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeBuildCommandLine>
+    <NMakeCleanCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /clean "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeCleanCommandLine>
+    <NMakeReBuildCommandLine>"$(VISUALGDB_DIR)\VisualGDB.exe" /rebuild "$(ProjectPath)" "/solution:$(SolutionPath)"  "/config:$(Configuration)" "/platform:$(Platform)"</NMakeReBuildCommandLine>
+    <NMakeOutput>$(ProjectDir)ic-leveldb-Release.vgdbsettings</NMakeOutput>
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ItemGroup>
+    <ClCompile Include="..\db\autocompact_test.cc" />
+    <ClCompile Include="..\db\builder.cc" />
+    <ClCompile Include="..\db\c.cc" />
+    <ClCompile Include="..\db\corruption_test.cc" />
+    <ClCompile Include="..\db\c_test.c" />
+    <ClCompile Include="..\db\dbformat.cc" />
+    <ClCompile Include="..\db\dbformat_test.cc" />
+    <ClCompile Include="..\db\db_bench.cc" />
+    <ClCompile Include="..\db\db_impl.cc" />
+    <ClCompile Include="..\db\db_iter.cc" />
+    <ClCompile Include="..\db\db_test.cc" />
+    <ClCompile Include="..\db\dumpfile.cc" />
+    <ClCompile Include="..\db\fault_injection_test.cc" />
+    <ClCompile Include="..\db\filename.cc" />
+    <ClCompile Include="..\db\filename_test.cc" />
+    <ClCompile Include="..\db\leveldbutil.cc" />
+    <ClCompile Include="..\db\log_reader.cc" />
+    <ClCompile Include="..\db\log_test.cc" />
+    <ClCompile Include="..\db\log_writer.cc" />
+    <ClCompile Include="..\db\memtable.cc" />
+    <ClCompile Include="..\db\recovery_test.cc" />
+    <ClCompile Include="..\db\repair.cc" />
+    <ClCompile Include="..\db\skiplist_test.cc" />
+    <ClCompile Include="..\db\table_cache.cc" />
+    <ClCompile Include="..\db\version_edit.cc" />
+    <ClCompile Include="..\db\version_edit_test.cc" />
+    <ClCompile Include="..\db\version_set.cc" />
+    <ClCompile Include="..\db\version_set_test.cc" />
+    <ClCompile Include="..\db\write_batch.cc" />
+    <ClCompile Include="..\db\write_batch_test.cc" />
+    <ClCompile Include="..\doc\bench\db_bench_sqlite3.cc" />
+    <ClCompile Include="..\doc\bench\db_bench_tree_db.cc" />
+    <ClCompile Include="..\helpers\memenv\memenv.cc" />
+    <ClCompile Include="..\helpers\memenv\memenv_test.cc" />
+    <ClCompile Include="..\issues\issue178_test.cc" />
+    <ClCompile Include="..\issues\issue200_test.cc" />
+    <ClCompile Include="..\table\block.cc" />
+    <ClCompile Include="..\table\block_builder.cc" />
+    <ClCompile Include="..\table\filter_block.cc" />
+    <ClCompile Include="..\table\filter_block_test.cc" />
+    <ClCompile Include="..\table\format.cc" />
+    <ClCompile Include="..\table\iterator.cc" />
+    <ClCompile Include="..\table\merger.cc" />
+    <ClCompile Include="..\table\table.cc" />
+    <ClCompile Include="..\table\table_builder.cc" />
+    <ClCompile Include="..\table\table_test.cc" />
+    <ClCompile Include="..\table\two_level_iterator.cc" />
+    <ClCompile Include="..\util\arena.cc" />
+    <ClCompile Include="..\util\arena_test.cc" />
+    <ClCompile Include="..\util\bloom.cc" />
+    <ClCompile Include="..\util\bloom_test.cc" />
+    <ClCompile Include="..\util\cache.cc" />
+    <ClCompile Include="..\util\cache_test.cc" />
+    <ClCompile Include="..\util\coding.cc" />
+    <ClCompile Include="..\util\coding_test.cc" />
+    <ClCompile Include="..\util\comparator.cc" />
+    <ClCompile Include="..\util\crc32c.cc" />
+    <ClCompile Include="..\util\crc32c_test.cc" />
+    <ClCompile Include="..\util\env.cc" />
+    <ClCompile Include="..\util\env_posix.cc" />
+    <ClCompile Include="..\util\env_posix_test.cc" />
+    <ClCompile Include="..\util\env_test.cc" />
+    <ClCompile Include="..\util\filter_policy.cc" />
+    <ClCompile Include="..\util\hash.cc" />
+    <ClCompile Include="..\util\hash_test.cc" />
+    <ClCompile Include="..\util\histogram.cc" />
+    <ClCompile Include="..\util\logging.cc" />
+    <ClCompile Include="..\util\logging_test.cc" />
+    <ClCompile Include="..\util\options.cc" />
+    <ClCompile Include="..\util\status.cc" />
+    <ClCompile Include="..\util\status_test.cc" />
+    <ClCompile Include="..\util\testharness.cc" />
+    <ClCompile Include="..\util\testutil.cc" />
+    <ClInclude Include="..\db\builder.h" />
+    <ClInclude Include="..\db\dbformat.h" />
+    <ClInclude Include="..\db\db_impl.h" />
+    <ClInclude Include="..\db\db_iter.h" />
+    <ClInclude Include="..\db\filename.h" />
+    <ClInclude Include="..\db\log_format.h" />
+    <ClInclude Include="..\db\log_reader.h" />
+    <ClInclude Include="..\db\log_writer.h" />
+    <ClInclude Include="..\db\memtable.h" />
+    <ClInclude Include="..\db\skiplist.h" />
+    <ClInclude Include="..\db\snapshot.h" />
+    <ClInclude Include="..\db\table_cache.h" />
+    <ClInclude Include="..\db\version_edit.h" />
+    <ClInclude Include="..\db\version_set.h" />
+    <ClInclude Include="..\db\write_batch_internal.h" />
+    <ClInclude Include="..\helpers\memenv\memenv.h" />
+    <ClInclude Include="..\include\leveldb\c.h" />
+    <ClInclude Include="..\include\leveldb\cache.h" />
+    <ClInclude Include="..\include\leveldb\comparator.h" />
+    <ClInclude Include="..\include\leveldb\db.h" />
+    <ClInclude Include="..\include\leveldb\dumpfile.h" />
+    <ClInclude Include="..\include\leveldb\env.h" />
+    <ClInclude Include="..\include\leveldb\export.h" />
+    <ClInclude Include="..\include\leveldb\filter_policy.h" />
+    <ClInclude Include="..\include\leveldb\iterator.h" />
+    <ClInclude Include="..\include\leveldb\options.h" />
+    <ClInclude Include="..\include\leveldb\slice.h" />
+    <ClInclude Include="..\include\leveldb\status.h" />
+    <ClInclude Include="..\include\leveldb\table.h" />
+    <ClInclude Include="..\include\leveldb\table_builder.h" />
+    <ClInclude Include="..\include\leveldb\write_batch.h" />
+    <ClInclude Include="..\port\atomic_pointer.h" />
+    <ClInclude Include="..\port\port.h" />
+    <ClInclude Include="..\port\port_example.h" />
+    <ClInclude Include="..\port\port_stdcxx.h" />
+    <ClInclude Include="..\port\thread_annotations.h" />
+    <ClInclude Include="..\port\win\stdint.h" />
+    <ClInclude Include="..\table\block.h" />
+    <ClInclude Include="..\table\block_builder.h" />
+    <ClInclude Include="..\table\filter_block.h" />
+    <ClInclude Include="..\table\format.h" />
+    <ClInclude Include="..\table\iterator_wrapper.h" />
+    <ClInclude Include="..\table\merger.h" />
+    <ClInclude Include="..\table\two_level_iterator.h" />
+    <ClInclude Include="..\util\arena.h" />
+    <ClInclude Include="..\util\coding.h" />
+    <ClInclude Include="..\util\crc32c.h" />
+    <ClInclude Include="..\util\env_posix_test_helper.h" />
+    <ClInclude Include="..\util\hash.h" />
+    <ClInclude Include="..\util\histogram.h" />
+    <ClInclude Include="..\util\logging.h" />
+    <ClInclude Include="..\util\mutexlock.h" />
+    <ClInclude Include="..\util\posix_logger.h" />
+    <ClInclude Include="..\util\random.h" />
+    <ClInclude Include="..\util\testharness.h" />
+    <ClInclude Include="..\util\testutil.h" />
+    <None Include="..\CMakeLists.txt" />
+    <None Include="ic-leveldb-Debug.vgdbsettings" />
+    <None Include="ic-leveldb-Release.vgdbsettings" />
+  </ItemGroup>
+</Project>

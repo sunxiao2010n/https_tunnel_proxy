@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{98624855-ae4d-4869-bb4e-6089570c1e8d}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{9f05a379-d207-4088-bba1-194fb22f82af}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{cb4f1a9e-0803-444b-b631-b02d1d332674}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Make files">
+      <UniqueIdentifier>{0362eeb6-edb1-4091-9ac9-3ba286926e0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VisualGDB settings">
+      <UniqueIdentifier>{71fbd787-8a8d-41ff-8530-e38787e19464}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="debug.mak">
+      <Filter>Make files</Filter>
+    </None>
+    <None Include="release.mak">
+      <Filter>Make files</Filter>
+    </None>
+    <None Include="sdk-Debug.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <None Include="sdk-Release.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <ClCompile Include="ConnectMgr.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SdkMainloop.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConnectMgr.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="enc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="YMEDataTypes.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="YMEMessage.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="YMESdk.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="md5.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="YMEUtils.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Recycler.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SdkEnv.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="md5.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="YMEHttp.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="YMEUtils.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Recycler.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

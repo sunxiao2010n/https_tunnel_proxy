@@ -1,0 +1,4 @@
+﻿  VisualGDB: Sending 1 updated source file to build machine...
+  VisualGDB: Run "make  CONFIG=Debug" in directory "/tmp/VisualGDB/d/workspace/TMS/sdk/sdk" on root@192.168.7.147 (SSH)
+  g++ -Dlinux  -ggdb -g3 -ffunction-sections -std=c++11 -O0 -Wno-write-strings -DDMS  -DACCURATE_TRAFFIC     -fPIC -c ConnectMgr.cpp -o Debug/ConnectMgr.o -MD -MF Debug/ConnectMgr.dep
+  g++ -shared -o Debug/libYMESdk.so -Wl,-gc-sections -L/usr/local/lib/ -lcjson    -Wl,--start-group Debug/ConnectMgr.o Debug/md5.o Debug/Recycler.o Debug/SdkEnv.o Debug/SdkMainloop.o Debug/YMEUtils.o Debug/YMEHttp.o     -Wl,--end-group

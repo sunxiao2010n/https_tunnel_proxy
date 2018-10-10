@@ -1,0 +1,141 @@
+#include <string.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <sys/time.h>
+
+#include <string>
+#include <iostream>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+#include "YMESdk.h"
+#ifdef __cplusplus
+}
+#endif
+
+int main(int argc, char *argv[])
+{
+	//<================= 1 YME Environment startup
+	YMEInit();
+	YMEStart();
+	//<==end 1
+
+	char auth[32] = "83cfed9778bf4a77";
+	char *host =    "bbs.chinaunix.net";
+	
+	//char *host =    "bbs.csdn.net";
+	/*char *request = "GET /thread-1507022-1-1.html HTTP/1.1\r\n\
+	 *	char *request = "GET /thread-1507022-1-1.html HTTP/1.1\r\n\
+	 **/
+	
+	char *request = "GET /topics/380243447 HTTP/1.1\r\n\
+Host: bbs.csdn.net\r\n\
+Connection: keep-alive\r\n\
+Cache-Control: max-age=0\r\n\
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\r\n\
+Upgrade-Insecure-Requests: 1\r\n\
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\n\
+Accept-Encoding: gzip, deflate\r\n\
+Accept-Language: zh-CN,zh;q=0.9\r\n\
+Cookie: ndfU_2132_saltkey=Z8gx8CG1; ndfU_2132_lastvisit=1514536093; ndfU_2132_visitedfid=23; pgv_pvi=7594853918; bdshare_firstime=1514539699712; ndfU_2132_sid=rs9xV0; ndfU_2132_st_p=0%7C1515565462%7C8437200bdfb5895dbfbcd821a35d112e; ndfU_2132_viewid=tid_1507022; ndfU_2132_lastact=1515565462%09home.php%09misc; pgv_info=ssi=s1875502652; __pta=1327626276.1514539700.1514539700.1515565465.1; __ptb=803612361; Hm_lvt_0ee5e8cdc4d43389b3d1bfd76e83216b=1514539700,1515565465; Hm_lpvt_0ee5e8cdc4d43389b3d1bfd76e83216b=1515565465\r\n\
+\r\n";
+
+	long mobile, loop;
+	if (argc > 2)
+	{
+		mobile = atol(argv[2]);
+		loop = atol(argv[1]);
+	}
+
+	else 
+	{
+		mobile = 15711005175;
+		loop = 100;
+	}
+	
+	struct timeval t1, t2, t3;
+	
+	
+	gettimeofday(&t1, NULL);
+	
+	//<================= 2 Connect YMESdk to TMS
+	U64 aval_traffic;
+	char traffic_tmp[32] = { 0 };
+	long yh = YMELoginTms(
+		inet_addr("139.196.252.62"),
+		//inet_addr("127.0.0.1"),
+		htons(10180),
+		10000000,
+		mobile,
+		auth,
+		host,
+		strlen(host),
+		80,
+		&aval_traffic);
+	
+	if (yh == -1)
+		return -1;
+	sprintf(traffic_tmp, "%llu", (unsigned long long)aval_traffic);
+	
+	std::string str_traffic(traffic_tmp);
+	std::cout << str_traffic << std::endl;
+	//<==end 2
+
+	gettimeofday(&t2, NULL);
+	
+	unsigned char* reply = NULL;
+	size_t rlen;
+		
+	//<================= 3 Send and receive Http request via TMS
+	int ret = YMESend(yh,
+		(unsigned char*)request,
+		strlen(request),
+		&reply,
+		&rlen);
+		
+	if (ret == -1)
+	{
+		//request failed and connection state was down
+		YMEShutDown(yh);
+	}
+	else if (ret == -2)
+	{
+		//handle reply first
+		//std::cout << reply << std::endl;
+		
+		//disconnect
+		YMEShutDown(yh);
+	}
+	else
+	{
+		//handle reply first
+		//std::cout << reply << std::endl;
+		//free reply buff
+		YMEFreeBuff(yh);
+	}
+	//<==end 3
+
+	
+	gettimeofday(&t3, NULL);
+	//YMEShutDown(yh);
+
+	/*_P("%d\.%03d,%d\.%03d,%d\.%03d",
+		t1.tv_sec,
+		t1.tv_usec, 
+		t2.tv_sec,
+		t2.tv_usec, 
+		t3.tv_sec,
+		t3.tv_usec);*/
+	
+	//YMEWait();
+	
+	sleep(6);
+	
+	//<================= 4 Detach then exit
+	YMEDetach();
+	return 0;
+}

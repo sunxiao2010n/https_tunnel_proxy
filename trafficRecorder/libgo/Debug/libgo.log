@@ -1,0 +1,16 @@
+﻿  VisualGDB: Sending 1 updated source file to build machine...
+  VisualGDB: Run "make  CONFIG=Debug" in directory "/tmp/VisualGDB/d/workspace/TMS/trafficRecorder/libgo" on root@192.168.7.147 (SSH)
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c block_object.cpp -o Debug/block_object.o -MD -MF Debug/block_object.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c config.cpp -o Debug/config.o -MD -MF Debug/config.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c co_mutex.cpp -o Debug/co_mutex.o -MD -MF Debug/co_mutex.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c co_rwmutex.cpp -o Debug/co_rwmutex.o -MD -MF Debug/co_rwmutex.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c debugger.cpp -o Debug/debugger.o -MD -MF Debug/debugger.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c error.cpp -o Debug/error.o -MD -MF Debug/error.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c libgo.cpp -o Debug/libgo.o -MD -MF Debug/libgo.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c processer.cpp -o Debug/processer.o -MD -MF Debug/processer.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c scheduler.cpp -o Debug/scheduler.o -MD -MF Debug/scheduler.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c sleep_wait.cpp -o Debug/sleep_wait.o -MD -MF Debug/sleep_wait.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c task.cpp -o Debug/task.o -MD -MF Debug/task.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c thread_pool.cpp -o Debug/thread_pool.o -MD -MF Debug/thread_pool.dep
+  g++ -std=gnu++11 -ggdb -ffunction-sections -O0   -DDEBUG=1  -fPIC -c timer.cpp -o Debug/timer.o -MD -MF Debug/timer.dep
+  g++ -shared -o Debug/libgo.so -Wl,-gc-sections    -Wl,--start-group Debug/block_object.o Debug/config.o Debug/co_mutex.o Debug/co_rwmutex.o Debug/debugger.o Debug/error.o Debug/libgo.o Debug/processer.o Debug/scheduler.o Debug/sleep_wait.o Debug/task.o Debug/thread_pool.o Debug/timer.o   -Wl,--rpath='$ORIGIN'  -Wl,-soname,libgo.so  -Wl,--end-group

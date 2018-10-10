@@ -1,0 +1,12 @@
+﻿  VisualGDB: Sending 1 updated source file to build machine...
+  VisualGDB: Executing pre-build actions
+  VisualGDB: Copy file D:\workspace\TMS\tms\tms\TMSMessage.h on local computer to /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-dpi/TMSMessage.h on 192.168.7.147
+  VisualGDB: Copy file D:\workspace\TMS\tms\tms\TMSDataTypes.h on local computer to /tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-dpi/TMSDataTypes.h on 192.168.7.147
+  VisualGDB: Run "make " in directory "/tmp/VisualGDB/d/workspace/TMS/ic-dpi/ic-dpi/Debug" on root@192.168.7.147 (SSH)
+  Scanning dependencies of target icdpi
+  [ 20%] Building CXX object CMakeFiles/icdpi.dir/ConnectMgr.cpp.o
+  [ 40%] Building CXX object CMakeFiles/icdpi.dir/PcapModule.cpp.o
+  [ 60%] Building CXX object CMakeFiles/icdpi.dir/LvldbMgr.cpp.o
+  [ 80%] Building CXX object CMakeFiles/icdpi.dir/main.cpp.o
+  [100%] Linking CXX executable icdpi
+  [100%] Built target icdpi
