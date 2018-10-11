@@ -1,5 +1,6 @@
 # http-https-proxy
-a proxy used by android/iphone to help visiting http/https address
+an http/https proxy for android and iphone
+only authneticated user's request can be forwarded
 
 
 sdk
