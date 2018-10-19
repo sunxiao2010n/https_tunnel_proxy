@@ -1,4 +1,4 @@
-# http-https-proxy
+# https tunnel proxy
 
 an http/https proxy for android and iphone
 
