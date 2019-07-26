@@ -15,7 +15,7 @@
 
 RedisConnPool& conn_pool = RedisConnPool::Instance();
 
-co_main(int argc, char **argv)
+int main(int argc, char **argv)
 {
 	std::string ip(REDIS_IP);
 	std::string pass("");
